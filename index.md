@@ -31,6 +31,16 @@ double quotation marks around the value, unless specified otherwise.
 And run 'make workshop-check' *before* committing to make sure that changes are good.
 {% endcomment %}
 
+This course aims at teaching basic lab skills for research computing. It is a hands-on training that covers the core skills needed to be productive in a small research team. Short tutorials alternate with practical exercises, and all instruction is done via live coding.
+
+The workshop will cover the following lessons: 
+
+  - Automating tasks with the Unix Shell
+  - Programming with Python
+  - Version Control with Git
+
+This workshop is primarily intended for the members of the Karlsruhe Institute of Technology, and they will be prioritized for registration until March 15th.
+Employees from other German universities may apply after this date.
 
 {% comment %}
 Check DC curriculum
@@ -256,10 +266,20 @@ Edit the text to match who can attend the workshop. For instance:
 - This workshop is open to the public.
 - If you are interested in attending this workshop, contact me@example.com
   for more information
-
+{% endcomment %}
+  
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to ....
+    This workshop is primarily intended for the members of the Karlsruhe Institute of Technology, and they will be prioritized for registration until March 15th.
+    Employees from other German universities may apply after this date.
+</p>
+
+<p>Registration is not open yet.<\p>
+{% comment%}
+<p class="text-center">
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdf3gDYFl0mcrIvGzMoavV6oMpjP2SvBOz2c3E1MlXX0hsddA/viewform?usp=pp_url">
+    <button type="button" class="btn btn-info">Register for this workshop</button>
+  </a>
 </p>
 {% endcomment %}
 
