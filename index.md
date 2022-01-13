@@ -274,7 +274,7 @@ Edit the text to match who can attend the workshop. For instance:
     Employees from other German universities may apply after this date.
 </p>
 
-<p>Registration is not open yet.<\p>
+<p>Registration is not open yet.</p>
 {% comment%}
 <p class="text-center">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdf3gDYFl0mcrIvGzMoavV6oMpjP2SvBOz2c3E1MlXX0hsddA/viewform?usp=pp_url">
